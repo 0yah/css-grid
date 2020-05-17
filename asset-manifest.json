@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/animals-kenya/static/css/main.5f361e03.chunk.css",
+    "main.js": "/animals-kenya/static/js/main.5ec5cd7f.chunk.js",
+    "main.js.map": "/animals-kenya/static/js/main.5ec5cd7f.chunk.js.map",
+    "runtime-main.js": "/animals-kenya/static/js/runtime-main.23604901.js",
+    "runtime-main.js.map": "/animals-kenya/static/js/runtime-main.23604901.js.map",
+    "static/js/2.dd17b46f.chunk.js": "/animals-kenya/static/js/2.dd17b46f.chunk.js",
+    "static/js/2.dd17b46f.chunk.js.map": "/animals-kenya/static/js/2.dd17b46f.chunk.js.map",
+    "index.html": "/animals-kenya/index.html",
+    "precache-manifest.0330ccc19db31d2e8758ec24875ed6ab.js": "/animals-kenya/precache-manifest.0330ccc19db31d2e8758ec24875ed6ab.js",
+    "service-worker.js": "/animals-kenya/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/animals-kenya/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dd17b46f.chunk.js.LICENSE.txt": "/animals-kenya/static/js/2.dd17b46f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/animals-kenya/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23604901.js",
+    "static/js/2.dd17b46f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5ec5cd7f.chunk.js"
+  ]
+}
