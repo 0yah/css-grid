@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/animals-kenya/precache-manifest.0330ccc19db31d2e8758ec24875ed6ab.js"
+  "/animals-kenya/precache-manifest.d5a638ea7c33be29ace1b157a05d3bdb.js"
 );
 
 self.addEventListener('message', (event) => {
