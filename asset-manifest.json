@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/animals-kenya/static/css/main.bbb080bb.chunk.css",
-    "main.js": "/animals-kenya/static/js/main.0603fcf1.chunk.js",
-    "main.js.map": "/animals-kenya/static/js/main.0603fcf1.chunk.js.map",
-    "runtime-main.js": "/animals-kenya/static/js/runtime-main.23604901.js",
-    "runtime-main.js.map": "/animals-kenya/static/js/runtime-main.23604901.js.map",
-    "static/js/2.9a0c226b.chunk.js": "/animals-kenya/static/js/2.9a0c226b.chunk.js",
-    "static/js/2.9a0c226b.chunk.js.map": "/animals-kenya/static/js/2.9a0c226b.chunk.js.map",
-    "index.html": "/animals-kenya/index.html",
-    "precache-manifest.d5a638ea7c33be29ace1b157a05d3bdb.js": "/animals-kenya/precache-manifest.d5a638ea7c33be29ace1b157a05d3bdb.js",
-    "service-worker.js": "/animals-kenya/service-worker.js",
-    "static/css/main.bbb080bb.chunk.css.map": "/animals-kenya/static/css/main.bbb080bb.chunk.css.map",
-    "static/js/2.9a0c226b.chunk.js.LICENSE.txt": "/animals-kenya/static/js/2.9a0c226b.chunk.js.LICENSE.txt",
-    "static/media/1.jpg": "/animals-kenya/static/media/1.654eb15f.jpg",
-    "static/media/2.jpg": "/animals-kenya/static/media/2.ef3816cf.jpg",
-    "static/media/3.jpg": "/animals-kenya/static/media/3.108f052f.jpg",
-    "static/media/4.jpg": "/animals-kenya/static/media/4.faaee418.jpg"
+    "main.css": "/css-grid/static/css/main.bbb080bb.chunk.css",
+    "main.js": "/css-grid/static/js/main.6841d832.chunk.js",
+    "main.js.map": "/css-grid/static/js/main.6841d832.chunk.js.map",
+    "runtime-main.js": "/css-grid/static/js/runtime-main.e70b3ae3.js",
+    "runtime-main.js.map": "/css-grid/static/js/runtime-main.e70b3ae3.js.map",
+    "static/js/2.9a0c226b.chunk.js": "/css-grid/static/js/2.9a0c226b.chunk.js",
+    "static/js/2.9a0c226b.chunk.js.map": "/css-grid/static/js/2.9a0c226b.chunk.js.map",
+    "index.html": "/css-grid/index.html",
+    "precache-manifest.a384c3a002d6d38bd268f16eef497c19.js": "/css-grid/precache-manifest.a384c3a002d6d38bd268f16eef497c19.js",
+    "service-worker.js": "/css-grid/service-worker.js",
+    "static/css/main.bbb080bb.chunk.css.map": "/css-grid/static/css/main.bbb080bb.chunk.css.map",
+    "static/js/2.9a0c226b.chunk.js.LICENSE.txt": "/css-grid/static/js/2.9a0c226b.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/css-grid/static/media/1.654eb15f.jpg",
+    "static/media/2.jpg": "/css-grid/static/media/2.ef3816cf.jpg",
+    "static/media/3.jpg": "/css-grid/static/media/3.108f052f.jpg",
+    "static/media/4.jpg": "/css-grid/static/media/4.faaee418.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.23604901.js",
+    "static/js/runtime-main.e70b3ae3.js",
     "static/js/2.9a0c226b.chunk.js",
     "static/css/main.bbb080bb.chunk.css",
-    "static/js/main.0603fcf1.chunk.js"
+    "static/js/main.6841d832.chunk.js"
   ]
 }
